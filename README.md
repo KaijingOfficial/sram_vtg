@@ -1,5 +1,5 @@
 
-# Paper Title: Beyond Uncertainty: Evidential Deep Learning for Robust Video Temporal Grounding
+# Beyond Uncertainty: Evidential Deep Learning for Robust Video Temporal Grounding
 
 
 ## Dataset Preparing
