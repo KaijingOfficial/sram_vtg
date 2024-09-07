@@ -53,11 +53,13 @@ bash scripts/inference/inf_sram_base_ddp.sh
 
 If you find our work useful, please cite:
 
-<pre style="background-color: rgb(43, 43, 43);margin-right: 15px;"><div class="pre-code-area"><code class="language-javascript" style="white-space: pre-wrap;">bibtex
+<pre style="background-color: rgb(43, 43, 43);margin-right: 15px;"><div class="pre-code-area"><code class="language-javascript" style="white-space: pre-wrap;">
 @article{ma2024beyond,
   title={Beyond Uncertainty: Evidential Deep Learning for Robust Video Temporal Grounding},
   author={Ma, Kaijing and Huang, Haojian and Chen, Jin and Chen, Haodong and Ji, Pengliang and Zang, Xianghao and Fang, Han and Ban, Chao and Sun, Hao and Chen, Mulin and others},
-  journal={arXiv preprint arXiv:2408.16272},
+  journal={arXiv preprint arXiv:2408.16272
+        
+        },
   year={2024}
 }
 </code></div></pre>
