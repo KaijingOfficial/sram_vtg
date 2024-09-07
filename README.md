@@ -57,9 +57,7 @@ If you find our work useful, please cite:
 @article{ma2024beyond,
   title={Beyond Uncertainty: Evidential Deep Learning for Robust Video Temporal Grounding},
   author={Ma, Kaijing and Huang, Haojian and Chen, Jin and Chen, Haodong and Ji, Pengliang and Zang, Xianghao and Fang, Han and Ban, Chao and Sun, Hao and Chen, Mulin and others},
-  journal={arXiv preprint arXiv:2408.16272
-        
-        },
+  journal={arXiv preprint arXiv:2408.16272},
   year={2024}
 }
 </code></div></pre>
