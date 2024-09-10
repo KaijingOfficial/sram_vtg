@@ -9,6 +9,9 @@
   <img src="https://img.shields.io/github/watchers/KaijingOfficial/sram_vtg?style=social" alt="GitHub watchers">
 </p>
 
+## 💡 News
+- **[2024-08-30]:** Release codebase.  
+
 ## 🚀Dataset Preparation
 
 Follow the instructions in the [Dataset section](https://github.com/showlab/UniVTG/blob/main/install.md#datasets) to set up the datasets.
