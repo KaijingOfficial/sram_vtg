@@ -6,7 +6,7 @@
   <img src="https://img.shields.io/badge/python-3.10-blue" alt="Python Version">
   <img src="https://img.shields.io/badge/conda-4.10.3-blue" alt="Conda Version">
   <a href="https://arxiv.org/abs/2408.16272"><img src="https://img.shields.io/badge/arXiv-2408.16272-red" alt="arXiv"></a>
-  <img src="https://img.shields.io/github/watchers/KaijingOfficial/sram_vtg?style=social" alt="GitHub watchers">
+  <img src="https://komarev.com/ghpvc/?username=KaijingOfficial&repo=sram_vtg" alt="GitHub Views">
 </p>
 
 ## 💡 News
