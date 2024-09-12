@@ -6,8 +6,7 @@
   <img src="https://img.shields.io/badge/python-3.10-blue" alt="Python Version">
   <img src="https://img.shields.io/badge/conda-4.10.3-blue" alt="Conda Version">
   <a href="https://arxiv.org/abs/2408.16272"><img src="https://img.shields.io/badge/arXiv-2408.16272-red" alt="arXiv"></a>
-<img src="https://img.shields.io/badge/GitHub%20Views-0A0A0A?style=social&logo=github&logoColor=white&label=Views&color=green&link=https://github.com/KaijingOfficial/sram_vtg" alt="GitHub Views">
-
+<img src="https://komarev.com/ghpvc/?username=KaijingOfficial&repo=sram_vtg" alt="GitHub Views">
 </p>
 
 ## 💡 News
