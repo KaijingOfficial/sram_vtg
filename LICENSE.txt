@@ -1,4 +1,4 @@
-Copyright (c) 2024 Kaijing Ma
+Copyright (c) 2024 Institute of Artificial Intelligence (TeleAI), China Telecom Corp Ltd
 All rights reserved.
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
