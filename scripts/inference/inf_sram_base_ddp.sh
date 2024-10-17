@@ -12,6 +12,7 @@ export OMP_NUM_THREADS=4
 
 resume="results/SRAM_base_qvhl/model_best.ckpt"
 
+
 dset_type=mr
 dset_name=qvhighlights
 clip_length=2
