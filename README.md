@@ -1,5 +1,5 @@
 
-# Beyond Uncertainty: Evidential Deep Learning for Robust Video Temporal Grounding
+# Adaptive Evidential Learning for Temporal-Semantic Robustness in Moment Retrieval
 
 <p align="center">
   <img src="https://img.shields.io/badge/license-MIT-brightgreen" alt="License">
@@ -11,6 +11,7 @@
 
 ## 💡 News
 - **[2024-08-30]:** Release codebase.  
+- **[2025-11-15]:** Accepted by AAAI 2026!  
 
 ## 🚀Dataset Preparation
 
